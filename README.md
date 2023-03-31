@@ -2,6 +2,8 @@
 
 Course work, examples, and written instructions will appear in this repository during the course. For now, please complete the setup below before the first tutorial. Email me if you have trouble with this setup. 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ICWallis/UoA-Python-Sessions/HEAD)
+
 # Setup Instructions
 
 
