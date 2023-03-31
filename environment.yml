@@ -14,6 +14,7 @@ dependencies:
   - openpyxl      # Needed to open xls files in Pandas
   - matplotlib    # Primary plotting package
   - seaborn       # Advanced static plotting package
+  - plotly        # Advanced dynamic plotting package
   - pip:
     #- ipywidgets==7.6.3
     #- jupyterlab-widgets==1.0.0
@@ -21,3 +22,4 @@ dependencies:
     #- jdcal==1.4.1 # calender calculations
     #- pytz==2021.1 # timezone calculations
     #- xlrd==2.0.1 # Used to read xls files
+    #- chemicals   # Steam tables (and lots of other stuff)
